@@ -206,6 +206,7 @@ def even_better_draw_circles(point, radii, number, color, thickness):
         turtle.pen_down()
         turtle.draw_circle(radii * k)  # Radius 15, 30, 45, 60, ...
 
+print (0, 0)
 
 ###############################################################################
 # DONE: 5.
